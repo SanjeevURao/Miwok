@@ -32,7 +32,7 @@ private MediaPlayer mediaPlayer;
         words.add(new Word("Come here.", "әnni'nem", R.raw.phrase_come_here));
 
 
-        WordAdapter itemsAdapter = new WordAdapter(this , words , R.color.category_numbers);
+        WordAdapter itemsAdapter = new WordAdapter(this , words , R.color.category_phrases);
         final ListView listview = (ListView) findViewById(R.id.list);
         listview.setAdapter(itemsAdapter);
         listview.setOnItemClickListener(new AdapterView.OnItemClickListener() {

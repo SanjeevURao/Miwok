@@ -30,7 +30,7 @@ private MediaPlayer mediaPlayer;
 
 
 
-        WordAdapter itemsAdapter = new WordAdapter(this , words , R.color.category_numbers);
+        WordAdapter itemsAdapter = new WordAdapter(this , words , R.color.category_colors);
         final ListView listview = (ListView) findViewById(R.id.list);
         listview.setAdapter(itemsAdapter);
         listview.setOnItemClickListener(new AdapterView.OnItemClickListener() {
