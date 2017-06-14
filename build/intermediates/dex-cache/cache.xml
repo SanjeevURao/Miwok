@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sanjeev/.android/build-cache/d7610bd3a92d1ab7a41b539503ae453942af4f33/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/sanjeev/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3cab7254d43e9deb7d849edd76cd7fbf63190b88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sanjeev/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92061d67a8f1f9ab3d74c48c641d763da8f5f69b">
+        <dex dex="/home/sanjeev/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bbef7fb836dd238730bb9d64867a6b8601be878f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sanjeev/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/sanjeev/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_f5c1bf0e16296c0978bd733c608180765e8335b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sanjeev/.android/build-cache/77a746f584d5faea447e877c5f56497471cf8290/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/sanjeev/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1119b44d393ce66914efb7ba30a20b55f0ce2013/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sanjeev/.android/build-cache/86bc1d52efc682998eba7cf02ddd334b8033d1de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/sanjeev/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_16309d4bdc35209981076e4b09a05bd893f767da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sanjeev/.android/build-cache/77a746f584d5faea447e877c5f56497471cf8290/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/sanjeev/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_879d7741e1b665ba4a624f720b89d0613c9dae05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sanjeev/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/sanjeev/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_6412f95c26b74e466fe70623072335ebac004894/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sanjeev/.android/build-cache/f987c182ccbf1bfaaf3d1357de4f9749043fdd80/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/sanjeev/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d3889569fdca15d7394cb9f8a2eb955934d1664c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sanjeev/.android/build-cache/518dd110e9e31fa8663b48a0950db3304bc4808d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/sanjeev/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9da22fe562f583e10c4e863ae0c45adb181a7d5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sanjeev/.android/build-cache/85ecc9ff7926ca1c1c2029c43d0eefe8b84b4f08/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/sanjeev/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a31cd55afc812d3116a49e2e802ae46d3782002/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sanjeev/.android/build-cache/e07ec57e4ef3efa9665450f2c20837166c5e6b01/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/sanjeev/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12a5b79bdbb5048f00456c580aabdc29864d5d69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sanjeev/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/sanjeev/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8065f7950fbb444c1a89f03458d28d12fb7018cb/classes.dex" />
+    </item>
+
+</items>

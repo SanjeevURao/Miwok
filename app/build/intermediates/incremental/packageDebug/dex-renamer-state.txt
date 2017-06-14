@@ -1,0 +1,7 @@
+#Mon Jun 12 07:22:53 IST 2017
+base.0=/home/sanjeev/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bbef7fb836dd238730bb9d64867a6b8601be878f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/sanjeev/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8065f7950fbb444c1a89f03458d28d12fb7018cb/classes.dex
+base.1=/home/sanjeev/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8065f7950fbb444c1a89f03458d28d12fb7018cb
+file.0=/home/sanjeev/Downloads/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bbef7fb836dd238730bb9d64867a6b8601be878f/classes.dex
